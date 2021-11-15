@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tabata_clock/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tabata_clock/static/js/main.20ac0672.chunk.js",
+    "main.js.map": "/tabata_clock/static/js/main.20ac0672.chunk.js.map",
+    "runtime-main.js": "/tabata_clock/static/js/runtime-main.34a41c71.js",
+    "runtime-main.js.map": "/tabata_clock/static/js/runtime-main.34a41c71.js.map",
+    "static/js/2.abf884b1.chunk.js": "/tabata_clock/static/js/2.abf884b1.chunk.js",
+    "static/js/2.abf884b1.chunk.js.map": "/tabata_clock/static/js/2.abf884b1.chunk.js.map",
+    "static/js/3.4c2f5163.chunk.js": "/tabata_clock/static/js/3.4c2f5163.chunk.js",
+    "static/js/3.4c2f5163.chunk.js.map": "/tabata_clock/static/js/3.4c2f5163.chunk.js.map",
+    "index.html": "/tabata_clock/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tabata_clock/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.abf884b1.chunk.js.LICENSE.txt": "/tabata_clock/static/js/2.abf884b1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tabata_clock/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a41c71.js",
+    "static/js/2.abf884b1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.20ac0672.chunk.js"
+  ]
+}
